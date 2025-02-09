@@ -1,0 +1,7 @@
+langchain==0.3.18
+langchain-openai==0.3.4
+langchain-community==0.3.17
+langgraph==0.2.70
+pip-tools==2.0.1
+python-dotenv==1.0.1
+rich==13.9.4
